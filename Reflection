@@ -1,21 +1,41 @@
-# Reflection 3
-## 2/9/2018
-At the beginning of the week, I learned how to create a question that can make different respondwhen it had different answers.
-And then we learned how to calculate integer and floating point.
-And I also learned how to calculate on putty, the calculation of integer and floating point is differents
-Besides that , I also learned two more variables, they are string and boolean variables.
-So this whole week, I've learn and practice about all 4 variables, they are integer, floating point, string, and boolean variable.
+#Reflection 7
+#3/9/2018
+This week I learned how to generate a specific amount of lines of text using loops. I also learned how to make calculators using input and combining strings. I successfully completed part 1 of the homework and some of part 2. I also learned how to make certain variables to do something completely random in a range of my choosing.
 
 
 --
 
 
-# Reflection 2
+#Reflection 6
+#3/1/2018
+This week I learned about the while statement. The while statement is used almost like an if statement, but it keeps looping until whatever it is looking for becomes false. I also learned how to change the color of my text while working in putty, which I now do everytime before I start coding. I was at the band trip during the end of last week and the beginning of this week, so I had to teach myself about the and and or statements. The and is used when you need more than one thing to be true in an if statement. While the or is used if only one thing is needed to be true. Finally, I learned that when using the % sign is almost the same as division. You use it to find out if something is odd or even, by using it with the number 2, and it then looks for any remainders, and if there is a remainder you know that it is odd.
+--
+
+
+#Reflection 5
+#2/23/2018
+This week my class worked on multiple types of activites,such as using the "and, or, else, if" commands. These helped us develope programs on our practice documents. Like yesterday we made a grade calculator. We inputed the grade and it would convert it to a letter grade, for example if i type "80" it would give me a "B" this worked because we typed out code saying "if grade is greater to or equal 80 then it is a "B". this really helped me understand the total reason "and or and if" is used for.
+
+
+--
+
+
+#Reflection 4
+#2/16/2018
+This week we start to learn how to use string to do s lot of things, we start to learn how to cut the string by using midpoint code, and cut a sentence or a word to two parts, or three parts. Then find out all the letter that is in the word or find all the letter that you want to find, and print them out. And to use len of some thing to sount how many words or letter is in that sentence or word. it will be very usefull after I start to code for separating the sentence and then flipe them. Last is use split and revers, to first separate the sentence and then use revers to revers the words or the whole sentence, which I have no idea what is use of that.
+
+
+--
+
+
+# Reflection 3
+## 2/9/2018
+At the beginning of the week, I learned how to create a question that can make different respondwhen it had different answers. And then we learned how to calculate integer and floating point. I also learned how to calculate on putty, the calculation of integer and floating point is differents. Besides that , I also learned two more variables, they are string and boolean variables. 
+
+
+Reflection 2
 ## 2/2/2018
-This week I have learned things about github, a website that you can post repository on.
-One of the major thing I've learned is how to create repository on github,then copy it in Ubuntu and write stuff in there, and then post it back to github.
-I also learned  mutiple new commands, mainly are the commands about github.
-I'm getting better and better on these things I'm learning, and I will keep practice to get better and better.
+This week I have learned things about github, a website that you can post repository on. One of the major thing I've learned is how to create repository on github,then copy it in Ubuntu and write stuff in there, and then post it back to github. I also learned  mutiple new commands, mainly are the commands about github. I'm getting better and better on these things I'm learning, and I will keep practice to get better and better.
 
 
 ---
@@ -23,8 +43,4 @@ I'm getting better and better on these things I'm learning, and I will keep prac
 
 # Reflection 1
 ## 1/26/2018
-I have learned many things about putty.
-I learned how to create or delete a file and a folder. 
-I learned how to check the things you have in the folder. 
-I have also learned the difference between Python 2.x and Python 3.x. 
-I know I am not good enough about these knowledge I have learned so far, but I will keep practice until I am very good at it.
+I have learned many things about putty. I learned how to create or delete a file and a folder. I learned how to check the things you have in the folder. I have also learned the difference between Python 2.x and Python 3.x. I know I am not good enough about these knowledge I have learned so far, but I will keep practice until I am very good at it.
